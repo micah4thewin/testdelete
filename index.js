@@ -1,5 +1,5 @@
 javascript:(function(){
-    var element = document.getElementById('rcnt');
+    var element = document.getElementById('rent');
     if (element) {
         element.innerHTML = 'hello world';
     } else {
